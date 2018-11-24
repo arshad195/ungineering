@@ -1,0 +1,14 @@
+       
+       h1{
+        color:green;}
+        
+        
+        input[type="text"]{
+            width:30%;
+            background-color:lightgreen;
+            font-size:20px;}
+            
+        input[type="password"]{
+            width:30%;
+            background-color:lightgreen;
+            font-size:20px;} 
